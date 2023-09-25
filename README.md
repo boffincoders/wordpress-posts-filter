@@ -8,4 +8,5 @@ We can filter posts based on categories and tags using shortcodes. We have used 
 
 ###How To Use
 Step 1:  Add the code to your theme's functions.php file.
+
 Step 2.  Add the shortcode where you want the blog post filter to appear.
