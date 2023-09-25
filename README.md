@@ -1,6 +1,6 @@
 # wordpress-posts-filter
 
-##Blog Post Filter Using Shortcode.
+## Blog Post Filter Using Shortcode.
 
 We can filter posts based on categories and tags using shortcodes. We have used JavaScript, HTML, PHP, and CSS to create responsive blog post filters.  The feature of this code is to hide and show the list of categories and tags on mobile and tablet views.
 
