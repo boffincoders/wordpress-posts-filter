@@ -639,4 +639,4 @@ $filterCheckboxes.on('change', filterFunc);
 <?php
  return ob_get_clean();
 }
-add_shortcode( 'tagcatefilter', 'filtertagandcategory' );
+add_shortcode( 'cat-tag-filter', 'filtertagandcategory' );
