@@ -13,6 +13,7 @@ We can filter posts based on categories and tags using shortcodes. We have used 
 
  Step 2. Add the shortcode where you want the blog post filter to appear.
 
+## Example
 
  ![alt text](https://raw.githubusercontent.com/boffincoders/wordpress-posts-filter/main/filter_posts.png)
 
