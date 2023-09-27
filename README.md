@@ -11,7 +11,7 @@ We can filter posts based on categories and tags using shortcode. We have used J
  Step 1: Add the code to your theme's functions.php file.
 
 
- Step 2. Add the shortcode where you want the blog post filter to appear. **[tagcatefilter]**
+ Step 2. Add the shortcode where you want the blog post filter to appear. **[cat-tag-filter]**
 
 ## Example
 
