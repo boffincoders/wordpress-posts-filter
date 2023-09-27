@@ -4,7 +4,7 @@
 
 We can filter posts based on categories and tags using shortcode. We have used JavaScript, HTML, PHP, and CSS to create responsive blog post filters.
 
-## **Live Link: https://blogpress.boffincoders.com/ **
+## Live Link: https://blogpress.boffincoders.com/ 
 
 ## How To Use
 
